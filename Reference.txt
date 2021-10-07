@@ -1,0 +1,2 @@
+Team Details - Consists of Details of Team members
+Readme.md - Consists of procedure on how to work with our program.
